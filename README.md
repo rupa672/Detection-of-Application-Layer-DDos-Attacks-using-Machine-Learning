@@ -17,13 +17,17 @@ exacerbating these threats. This research aims to address this gap by investigat
 **Prerequisites**
 
 Software: Anaconda
+
 Backend: Flask, Jupyter Notebook
+
 Database: SQLite3
+
 Frontend: HTML, CSS, JavaScript
 
 **Technologies Used**
 
 Programming Languages : Python
+
 Libraries : Numpy,Pandas,Matploitlib
 
 **Project Workflow**
