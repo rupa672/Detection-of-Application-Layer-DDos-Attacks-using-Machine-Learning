@@ -1,10 +1,10 @@
 # Detection-of-Application-Layer-DDos-Attacks-using-Machine-Learning
-**Problem Statement
+**Problem Statement**
 
 One of the most pernicious and increasingly complex security dangers to computer networks is distributed denial of service (DDoS) attacks.The increasing prevalence of distributed denial of service (DDoS) attacks poses a significant threat to online services. While numerous studies have focused on identifying attack patterns, there is a notable gap in understanding the role of freely available DDoS attack tools in
 exacerbating these threats. This research aims to address this gap by investigating the impact of such tools on the frequency and severity of attacks. Furthermore, it seeks to develop an efficient machine learning-based solution for DDoS attack detection through feature selection, contributing to enhanced cybersecurity measures. 
 
-**Features
+**Features**
 
 1.Dataset generation using freely available DDoS toolkits.
 
@@ -14,19 +14,19 @@ exacerbating these threats. This research aims to address this gap by investigat
 
 4.Comparative analysis of different models and their effectiveness.
 
-**Prerequisites
+**Prerequisites**
 
 Software: Anaconda
 Backend: Flask, Jupyter Notebook
 Database: SQLite3
 Frontend: HTML, CSS, JavaScript
 
-**Technologies Used
+**Technologies Used**
 
 Programming Languages : Python
 Libraries : Numpy,Pandas,Matploitlib
 
-**Project Workflow
+**Project Workflow**
 
 Data Collection and Preprocessing:
 
@@ -48,7 +48,7 @@ Real-Time Prediction:
 
 ->Use trained models to predict attack traffic.
 
- **System Requirements
+ **System Requirements**
  
 Software:
 
@@ -66,7 +66,7 @@ RAM: Minimum 8GB.
 
 Storage: 25GB free disk space.
 
-**Modules:
+**Modules**
 
 Data Exploration
 
@@ -74,7 +74,7 @@ Data Splitting (Training and Testing)
 
 Model Generation and Prediction
 
-**Algorithms Used:
+**Algorithms Used**
 
 MLP with SGD, LBFGS, Adam.
 
@@ -82,7 +82,7 @@ Stacking Classifier.
 
 Voting Classifier.
 
-**Future Enhancements:
+**Future Enhancements**
 
 1.Deep Learning Integration
 
